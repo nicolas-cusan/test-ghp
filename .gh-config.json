@@ -1,0 +1,8 @@
+{
+  "page": {
+    "layout": "index",
+    "title": "Test project",
+    "intro": "This is an intro text for the project"
+  },
+  "github": "https://github.com/nicolas-cusan/test-ghp"
+}

@@ -1,5 +1,5 @@
 ---
-layout: index
+title: Readme
 ---
 
 ### Some other file

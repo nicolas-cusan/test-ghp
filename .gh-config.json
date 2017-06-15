@@ -1,8 +1,21 @@
 {
-  "page": {
-    "layout": "index",
-    "title": "Test project",
-    "intro": "This is an intro text for the project"
+  "Readme.md": {
+    "page": {
+      "layout": "index",
+      "title": "Test project",
+      "intro": "This is an intro text for the project"
+    }
   },
-  "github": "https://github.com/nicolas-cusan/test-ghp"
+  "menu": [
+    {
+      "label": "Docs",
+      "url": "some-file.html"
+    },
+    {
+      "label": "External",
+      "url": "http://google.com",
+      "external": true
+    }
+  ],
+  "githubLink": "https://github.com/nicolas-cusan/test-ghp"
 }
